@@ -1,0 +1,11 @@
+body{
+	background-color: black;
+}
+h1{
+	color: blue;
+}
+#canvas{
+	display: block;
+	margin: auto;
+	background-color: black;
+}
